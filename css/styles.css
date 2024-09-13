@@ -4908,6 +4908,12 @@ h1 span {
     color: var(--color-1);
 }
 
+#resultado {
+    margin-top: 0;
+    color: var(--color-1);
+    font-weight: bold;
+}
+
 
 /* ------------------------------------------------------------------- 
  * responsive:
